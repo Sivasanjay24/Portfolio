@@ -1,0 +1,29 @@
+.hs
+{
+  text-align: center;
+  background-image: linear-gradient(to right, #f40cbd, #0e1cd9);
+  color :transparent;
+  background-size: cover;
+  background-clip: text;
+  -moz-background-clip: text;
+  -webkit-background-clip: text;
+}
+img
+{
+  height:80px;
+}
+.gridpl
+{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  padding: 50px;
+}
+.gridwt
+{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+  padding: 50px;
+}
+.git{
+padding: 50px;
+}

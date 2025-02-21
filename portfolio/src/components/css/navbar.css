@@ -1,0 +1,10 @@
+.li{
+  text-decoration: none;
+  color: white;
+}
+.li:hover{
+  background-image: linear-gradient(to right, #f40cbd, #0e1cd9);
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+}
