@@ -8,14 +8,20 @@
   -moz-background-clip: text;
   -webkit-background-clip: text;
 }
-img
+.gitems
 {
   height:80px;
+  transition: 1s;
+}
+.gitems:hover
+{
+  transform: scale(1.2);
+  filter: drop-shadow(0 0 2em #ffffff);
 }
 .gridpl
 {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
   padding: 50px;
 }
 .gridwt
@@ -24,6 +30,9 @@ img
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
   padding: 50px;
 }
-.git{
-padding: 50px;
+.gridt{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+  padding: 50px;
+  padding-right: 50px;
 }

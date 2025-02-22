@@ -21,7 +21,10 @@ function skills()
         <img className='gitems' src='/node.png'></img>
         </div>
         <h1>Tools</h1>
-        <img className='git' src='/git.png'></img>
+        <div className="gridt">
+        <img className='gitems' src='/git.png'></img>
+        <img className='gitems' src='/vs.png'></img>
+        </div>
     </div>
   )
 }

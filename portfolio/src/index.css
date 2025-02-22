@@ -2,10 +2,11 @@
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
-
-  color-scheme:dark;
   color: rgba(255, 255, 255, 0.87);
-  background-color: #000000;
+  background-image: url(/black.jpg);
+  background-size: cover;      
+  background-position: center;
+  background-repeat: no-repeat
 }
 
 header
@@ -13,22 +14,4 @@ header
   margin-top: 50px;
 }
 
-nav
-{
-  background-color: #1d1c1c;
-  color :rgb(255, 255, 255);
-  margin: auto;
-  padding: 10px;
-  border-radius: 10px;
-  width:80%;
-  justify-content: center;
-  align-items: center;
-  position:relative;  
-}
 
-ul
-{
-  list-style-type: none;
-  justify-content: space-around;
-  display:flex;
-}

@@ -3,16 +3,12 @@
   color: aliceblue;
   font-size:70px;
   padding:80px;
-  background-image: url(https://media.giphy.com/media/3ov9jJikNnrKktK1Wg/giphy.gif?cid=ecf05e47c9nrw2ah494q2ezqiruuh51iwueflolfqh2wwe7a&ep=v1_gifs_search&rid=giphy.gif&ct=g);
+  /* background-image: url(/black.jpg); */
+  background-color: rgb(255, 255, 255);
   color :transparent;
   background-size: cover;
   background-clip: text;
   -moz-background-clip: text;
   -webkit-background-clip: text;
-}
-.imgh
-{
-  height:auto;
-  width:50%;
-  float:left;
+  text-align: center;
 }
