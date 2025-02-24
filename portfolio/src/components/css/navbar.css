@@ -1,11 +1,11 @@
-.li{
+.link{
   text-decoration: none;
   color: white;
   padding: 10px;
   border-radius:10px;
   transition: 0.8s ease;
 }
-.li:hover{
+.link:hover{
   /* background-image: linear-gradient(to right, #ff1900, #0e1cd9); */
   border: solid 1px white;
   /* box-shadow: 1px 1px 10px white; */

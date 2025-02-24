@@ -1,8 +1,8 @@
 .grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);  /* 3 cards per row */                               /* Space between cards */
-  justify-items: center;                    /* Center cards horizontally in grid */
-  align-items: center;                      /* Center cards vertically in grid */                              /* Set grid width */
+  grid-template-columns: repeat(3, 1fr);  
+  justify-items: center;                   
+  align-items: center;                                                   
   margin: 0 auto;  
 }
 

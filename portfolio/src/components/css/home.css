@@ -12,3 +12,7 @@
   -webkit-background-clip: text;
   text-align: center;
 }
+.con
+{
+  display: flex;
+}
