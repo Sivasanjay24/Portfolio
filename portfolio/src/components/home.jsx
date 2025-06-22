@@ -13,7 +13,7 @@ function home()
    className='custom-class'>Sivasanjay</Glitch></span>
       <span className="h4">Computer Science and Engineering Undergrad</span>
       </div>
-      <img className="imga"src='/me.png'></img>
+      <img className="imga"src='/me.jpg'></img>
       </div >
     </div>
   )
